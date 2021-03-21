@@ -1,7 +1,7 @@
 # Scripts All The Things 😎
 
 <p>
-    <img src="https://i.postimg.cc/K8MxFtmj/Capture.jpg" width=600px height=300px/>
+    <img src="https://i.postimg.cc/K8MxFtmj/Capture.jpg" width=650px height=350px/>
 </p>
 
 
