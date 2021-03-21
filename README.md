@@ -1,6 +1,6 @@
 # Scripts All The Things 😎
 
-<p align="center">
+<p>
     <img src="https://i.postimg.cc/K8MxFtmj/Capture.jpg" width=500px height=250px/>
 </p>
 
