@@ -14,7 +14,7 @@
 A amazing collection of **Python Scripts**. Make your life easier with scripts.
 
 
-## 																	Project Admin
+##Project Admin
 
 <p>
     <a href="https://www.linkedin.com/in/sudhanshu-motewar/">Sudhanshu Motewar</a>
@@ -25,4 +25,4 @@ A amazing collection of **Python Scripts**. Make your life easier with scripts.
   <img src="https://img.shields.io/badge/i.m.d3ds3c%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>                                                                                     
 </p>
 
-#HAPPY CODING ❤️
+##HAPPY CODING ❤️
