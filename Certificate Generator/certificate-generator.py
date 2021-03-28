@@ -3,6 +3,7 @@
     - Generate thousands of certificates at just one click
 
     Author : Sudhanshu Motewar
+    Date   : 28/03/21
 """
 
 from PIL import Image, ImageDraw, ImageFont
