@@ -1,4 +1,4 @@
-<h1 align="center"> <u><b> SCRIPTS </b></u> </h1>
+<h1 align="center"> <u><b> 📃 SCRIPTS 📃 </b></u> </h1>
 
 | S No. | Name | Info | Link | Coded By |
 |-------|------|------|------|----------|
