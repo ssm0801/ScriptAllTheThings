@@ -3,7 +3,7 @@
     -  Get notification of new cases and deaths
 
     Author      : Sudhanshu Motewar
-    Start Date  : 21/03/21
+    Date  : 21/03/21
 """
 
 import requests
