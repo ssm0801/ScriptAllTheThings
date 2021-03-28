@@ -9,11 +9,12 @@
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) 
 
+<br />
+
 ## Introduction
 
 A amazing collection of **Python Scripts**. Make your life easier with scripts.
 
-<br />
 <br />
 
 ## 📃 SCRIPTS 📃
@@ -23,7 +24,6 @@ A amazing collection of **Python Scripts**. Make your life easier with scripts.
 | 1\.  | COVID-19 Status | It notifies the cases and deaths | [Source](https://github.com/ssm0801/ScriptAllTheThings/tree/master/COVID-19%20status) | [Sudhanshu Motewar](https://github.com/ssm0801)      |
 | 2\.  | WhatsApp Scheduled Messenger | Schedule and send a message in WhatsApp | [Source](https://github.com/ssm0801/ScriptAllTheThings/tree/master/WhatsApp%20Scheduled%20Messenge) | [Sudhanshu Motewar](https://github.com/ssm0801) |
 
-<br />
 <br />
 
 ## Project Admin
@@ -36,5 +36,7 @@ A amazing collection of **Python Scripts**. Make your life easier with scripts.
   <img src="https://img.shields.io/badge/SudhanshuMotewar%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   <img src="https://img.shields.io/badge/i.m.d3ds3c%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>                                                                                     
 </p>
+
+<br />
 
 # HAPPY CODING ❤️
