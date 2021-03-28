@@ -3,7 +3,7 @@
     - Send message to your friend or group at scheduled time
 
     Author      : Sudhanshu Motewar
-    Start Date  : 25/03/21
+    Date  : 25/03/21
 """
 
 import pywhatkit
