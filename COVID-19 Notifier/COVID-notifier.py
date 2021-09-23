@@ -1,6 +1,6 @@
 """
     COVID-19 Status
-    -  Get notification of new cases and deaths
+    - Get notification of new cases and deaths
 
     Author : Sudhanshu Motewar
     Date   : 21/03/21
