@@ -32,11 +32,11 @@ if __name__ == "__main__":
     questions = [
         inquirer.List(
             "sign",
-            message="Choose your Zodiac : ",
+            message="Choose your Zodiac",
             choices=zodiacSign.keys(),
         ),
         inquirer.List(
-            "day", message="Choose a day : ", choices=["Yesterday", "Today", "Tomorrow"]
+            "day", message="Choose a day", choices=["Yesterday", "Today", "Tomorrow"]
         ),
     ]
     answers = inquirer.prompt(questions)
