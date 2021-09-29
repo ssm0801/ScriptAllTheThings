@@ -1,3 +1,9 @@
+"""
+Inquirer module is a clone of the famous Inquirer.js package and it shares part of the goals and philosophy.
+
+Inquirer ease the process of asking end user questions, parsing, validating answers, managing hierarchical prompts and providing error feedback.
+"""
+
 import requests
 import inquirer
 from bs4 import BeautifulSoup
