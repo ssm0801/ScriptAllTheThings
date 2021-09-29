@@ -36,7 +36,7 @@ A amazing collection of **Python Scripts**. Make your life easier with scripts.
 
 <br />
 
-# Thanks to all the contributors ❤️'
+# Thanks to all the contributors ❤️
 <a href = "https://github.com/ssm0801/ScriptAllTheThings/graphs/contributors">
     <img src = "https://contrib.rocks/image?repo=ssm0801/ScriptAllTheThings"/>
 <a>
