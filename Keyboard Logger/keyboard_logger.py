@@ -2,7 +2,7 @@
     Keyboard Logger
     - Keylogger that monitor keystrokes
 
-    Author : Kruze Zab [github hyperlink]
+    Author : Kruze Zab
     Date : 1/10/21
 """
 
