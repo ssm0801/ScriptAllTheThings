@@ -26,12 +26,12 @@ A amazing collection of **Python Scripts**. Make your life easier with scripts.
 <br />
 
 ## Project Admin
-<p>
-    <a href="https://www.linkedin.com/in/sudhanshu-motewar/">Sudhanshu Motewar</a>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/SudhanshuMotewar%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/sudhanshu.motewar%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>                                                                                     
+
+<a href="https://www.linkedin.com/in/sudhanshu-motewar/">Sudhanshu Motewar</a>
+
+
+[![LinkedIn](https://img.shields.io/badge/SudhanshuMotewar%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudhanshu-motewar/)
+<img src="https://img.shields.io/badge/sudhanshu.motewar%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>                                                                                     
 </p>
 
 <br />
