@@ -1,7 +1,7 @@
 """
 Temperature Scale Converter
--Converts celsius sclae to fahrenheit and vice-versa
-Author : Niyoj Oli [https://github.com/niyoj]
+- Converts celsius sclae to fahrenheit and vice-versa
+Author : (Niyoj Oli)[https://github.com/niyoj]
 Date : 24/09/21
 """
 
