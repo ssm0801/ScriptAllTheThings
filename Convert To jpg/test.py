@@ -1,4 +1,10 @@
-# here’s a quick utility that will take the input file and convert it to a .jpg version using the same base name.
+
+'''
+Convert To jpg
+A quick utility that will take the input file and convert it to a .jpg version using the same base name.
+Author : Hershil Piplani
+Date : 1/10/21
+'''
 import os
 import sys
 from PIL import Image
