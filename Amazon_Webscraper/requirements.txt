@@ -1,0 +1,12 @@
+beautifulsoup4==4.9.3
+bs4==0.0.1
+html5lib==1.1
+numpy==1.19.5
+pandas==1.2.0
+python-dateutil==2.8.1
+pytz==2020.5
+selenium==3.141.0
+six==1.15.0
+soupsieve==2.1
+urllib3==1.26.2
+webencodings==0.5.1
