@@ -21,25 +21,13 @@ There are no prerequisites; all you need is a basic understanding of Python and 
 - Clone this Repository
 
 ```
-git clone https://github.com/gaurtvin/python-projects.git
+git clone https://github.com/ssm0801/ScriptAllTheThings.git
 ```
 
-- Go to the Project directory
+- Go to the Password Validator folder
 
 ```
-cd python-projects
-```
-
-- Go to the projects folder
-
-```
-cd projects
-```
-
-- Go to the Password-Validator folder
-
-```
-cd Password-Validator
+cd Password Validator
 ```
 
 - Run the following command
@@ -50,11 +38,11 @@ python main.py
 
 # Sample use of the code
 
-![alt text](https://github.com/gaurtvin/python-projects/blob/master/projects/Password-Validator/screenshot_1.png)
+![alt text](https://github.com/Mannuel25/ScriptAllTheThings/blob/master/Password%20Validator/screenshot_1.png)
 
-![alt text](https://github.com/gaurtvin/python-projects/blob/master/projects/Password-Validator/screenshot_2.png)
+![alt text](https://github.com/Mannuel25/ScriptAllTheThings/blob/master/Password%20Validator/screenshot_2.png)
 
-![alt text](https://github.com/gaurtvin/python-projects/blob/master/projects/Password-Validator/screenshot_3.png)
+![alt text](https://github.com/Mannuel25/ScriptAllTheThings/blob/master/Password%20Validator/screenshot_3.png)
 
 # Author's name
 
