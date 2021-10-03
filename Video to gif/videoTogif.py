@@ -1,6 +1,6 @@
 '''
 Convert Video to GIF
--
+- Utility to convert video files to animated GIFs. Supports many video formats and the conversion quality is configurable.
 Author : Hershil Piplani
 Date : 3/10/21
 '''
