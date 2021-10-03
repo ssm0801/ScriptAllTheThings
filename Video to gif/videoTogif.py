@@ -1,3 +1,9 @@
+'''
+Convert Video to GIF
+-
+Author : Hershil Piplani
+Date : 3/10/21
+'''
 import os
 
 from moviepy.editor import VideoFileClip
