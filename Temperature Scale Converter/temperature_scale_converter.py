@@ -1,11 +1,8 @@
 """
-Name : Temperature Scale Converter
-Aim : Inputs the value from the user and converts it to Fahrenheit,Kelvin & Celsius
-Author : (Niyoj Oli)[https://github.com/niyoj]
-Update: Added Kelvin scale
-        Converted the data type to float, so that temperature in decimals can be considered
-        Added comments to make it user-friendly
-        By (Mayank Goyal) [https://github.com/mayankgoyal-13]
+Temperature Scale Converter
+- Inputs the value from the user and converts it to Fahrenheit,Kelvin & Celsius
+
+Author : Niyoj Oli
 Date : 01/10/21
 """
 
