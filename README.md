@@ -22,7 +22,8 @@ A amazing collection of **Python Scripts**. Make your life easier with scripts.
 | 2\.  | WhatsApp Scheduled Messenger | Schedule and send a message in WhatsApp | [Source](https://github.com/ssm0801/ScriptAllTheThings/tree/master/WhatsApp%20Scheduled%20Messenger) | [Sudhanshu Motewar](https://github.com/ssm0801) |
 | 3\.  | Certificate Generator | Generate thousands of certificate at just one click | [Source](https://github.com/ssm0801/ScriptAllTheThings/tree/master/Certificate%20Generator) | [Sudhanshu Motewar](https://github.com/ssm0801) |
 | 4\.  | Text to Handwriting | Converts the text given into handwriting image | [Source](https://github.com/ssm0801/ScriptAllTheThings/tree/master/Text%20to%20Handwriting) | [Sudhanshu Motewar](https://github.com/ssm0801) |
-| 5\.  | Convert To jpg |A quick utility that will take the input file and convert it to a .jpg| [Source](https://github.com/ssm0801/ScriptAllTheThings/tree/master/Text%20to%20Handwriting) | [Hershil Piplani](https://github.com/herkura) |
+| 5\.  | Convert To jpg |A quick utility that will take the input file and convert it to a .jpg| [Source](https://github.com/herkura/ScriptAllTheThings/tree/convert-to-jpg/Convert%20To%20jpg) | [Hershil Piplani](https://github.com/herkura) |
+| 6\.  | Convert  |A quick utility that will take the input file and convert it to a .jpg| [Source](https://github.com/herkura/ScriptAllTheThings/tree/convert-to-jpg/Convert%20To%20jpg) | [Hershil Piplani](https://github.com/herkura) |
 
 <br />
 
