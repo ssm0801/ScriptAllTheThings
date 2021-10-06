@@ -25,6 +25,7 @@ A amazing collection of **Python Scripts**. Make your life easier with scripts.
 | 5\.  | Convert to jpg | A quick utility that will take the input file and convert it to a .jpg | [Source](https://github.com/herkura/ScriptAllTheThings/tree/convert-to-jpg/Convert%20To%20jpg) | [Hershil Piplani](https://github.com/herkura) |
 | 6\.  | Convert video to GIF | Utility to convert video files to animated GIFs | [Source](https://github.com/herkura/ScriptAllTheThings/tree/convert-to-jpg/Video%20to%20gif) | [Hershil Piplani](https://github.com/herkura) |
 | 7\.  | Organizing File | Organizing your files | [Source](https://github.com/ssm0801/ScriptAllTheThings/tree/organizing-files/Automate%20Organizing%20Files) | [Re-Creators](https://github.com/Re-Creators) |
+| 8\.  | Rock Paer Scissor Game | A game made using functions and inbuilt module | [Source](https://github.com/herkura/ScriptAllTheThings) | [Mayank Goyal](https://github.com/mayankgoyal-13) |
 
 
 <br />
