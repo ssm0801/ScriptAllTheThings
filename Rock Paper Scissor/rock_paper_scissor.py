@@ -2,6 +2,7 @@
 """
 Rock Paper Scissor Game
 - This a user VS computer game
+
 Author : Mayank Goyal [https://github.com/mayankgoyal-13]
 Date   : 6/10/21
 """
