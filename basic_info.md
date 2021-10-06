@@ -4,7 +4,7 @@
     
     - one line info about what script does
     
-    Author : [Your Name](github-link)
+    Author : Your Name
     
     Date   : Date
 """
