@@ -22,7 +22,7 @@ A amazing collection of **Python Scripts**. Make your life easier with scripts.
 | 2\.  | WhatsApp Scheduled Messenger | Schedule and send a message in WhatsApp | [Source](https://github.com/ssm0801/ScriptAllTheThings/tree/master/WhatsApp%20Scheduled%20Messenger) | [Sudhanshu Motewar](https://github.com/ssm0801) |
 | 3\.  | Certificate Generator | Generate thousands of certificate at just one click | [Source](https://github.com/ssm0801/ScriptAllTheThings/tree/master/Certificate%20Generator) | [Sudhanshu Motewar](https://github.com/ssm0801) |
 | 4\.  | Text to Handwriting | Converts the text given into handwriting image | [Source](https://github.com/ssm0801/ScriptAllTheThings/tree/master/Text%20to%20Handwriting) | [Sudhanshu Motewar](https://github.com/ssm0801) |
-
+| 5\.  | Differential Equations Solver | Helps solve Differential Equations | [Source](https://github.com/19-ade/ScriptAllTheThings/tree/master/Differentail%20Equation%20Solver) | [Anwesan De](https://github.com/19-ade) |
 <br />
 
 ## Project Admin
