@@ -1,3 +1,14 @@
+'''
+Ordinary Point series
+
+- gives the solution for the ordinary point series differential equations based on inputs of coefficient values
+
+Author : Your Name
+
+Date   : Date
+'''
+
+
 import sympy as sy
 sy.init_printing() # for LaTeX formatted output
 from IPython.display import display
