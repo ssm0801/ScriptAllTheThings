@@ -1,10 +1,11 @@
 """
 Strong Password Generator
 
-- Generates a secure random password of 12 digits using the secrets module (much better than random!) and the string module
+- Generates a secure random password
 
 Author: Skyascii (https://github.com/savioxavier)
-Date: 1/10/2021
+
+Date  : 1/10/2021
 """
 
 import secrets
