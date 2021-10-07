@@ -26,6 +26,7 @@ A amazing collection of **Python Scripts**. Make your life easier with scripts.
 | 6\.  | Convert video to GIF | Utility to convert video files to animated GIFs | [Source](https://github.com/herkura/ScriptAllTheThings/tree/convert-to-jpg/Video%20to%20gif) | [Hershil Piplani](https://github.com/herkura) |
 | 7\.  | Organizing File | Organizing your files | [Source](https://github.com/ssm0801/ScriptAllTheThings/tree/organizing-files/Automate%20Organizing%20Files) | [Re-Creators](https://github.com/Re-Creators) |
 | 8\.  | Rock Paer Scissor Game | A game made using functions and inbuilt module | [Source](https://github.com/ssm0801/ScriptAllTheThings/tree/master/Rock%20Paper%20Scissor) | [Mayank Goyal](https://github.com/mayankgoyal-13) |
+| 9\.  | Ted Talk Downloader | Script to download a Ted Talk | [Source](https://github.com/ssm0801/ScriptAllTheThings/tree/master/Ted%20Talk%20Downloader) | [Yash Sharmal](https://github.com/Yash0605) |
 
 
 <br />
