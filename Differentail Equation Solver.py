@@ -1,3 +1,15 @@
+'''
+Hypergeometric Equation solver
+
+- This script helps solve hypergeometric differential equations based on the coefficients inputs 
+
+Author : Anwesan De
+
+Date   : 7/10/21
+'''
+
+
+
 import sympy as sy
 sy.init_printing() # for LaTeX formatted output
 from IPython.display import display
