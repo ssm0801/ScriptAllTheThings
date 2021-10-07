@@ -1,3 +1,13 @@
+'''
+Regualar Singular Series
+
+- Gives the solution for the regualr singular type differential eqautions based on inputs from user
+
+Author : Anwesan De
+
+Date   : 7/10/21
+
+'''
 import sympy as sy
 sy.init_printing() # for LaTeX formatted output
 from IPython.display import display
