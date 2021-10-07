@@ -1,3 +1,13 @@
+'''
+Hypergeometric_equation solver
+
+- Helps solve hypergeometric equations using input from the user
+
+Author : Anwesan De
+
+Date   : 7/10/21
+
+'''
 import sympy as sy
 sy.init_printing() # for LaTeX formatted output
 from IPython.display import display
