@@ -3,9 +3,9 @@ Ordinary Point series
 
 - gives the solution for the ordinary point series differential equations based on inputs of coefficient values
 
-Author : Your Name
+Author : Anwesan De
 
-Date   : Date
+Date   : 7/10/21
 '''
 
 
