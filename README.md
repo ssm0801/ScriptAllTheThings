@@ -11,11 +11,13 @@
 <br />
 
 ## Introduction
+
 A amazing collection of **Python Scripts**. Make your life easier with scripts.
 
 <br />
 
 ## 📃 SCRIPTS 📃
+
 | S No. | 📛 Name | ℹ️ Info | 🔗 Link | 💻 Coded By |
 |-------|---------|----------|---------|--------------|
 | 1\.  | COVID-19 Status | It notifies the cases and deaths | [Source](https://github.com/ssm0801/ScriptAllTheThings/tree/master/COVID-19%20Notifier) | [Sudhanshu Motewar](https://github.com/ssm0801)      |
@@ -26,11 +28,12 @@ A amazing collection of **Python Scripts**. Make your life easier with scripts.
 | 6\.  | Convert video to GIF | Utility to convert video files to animated GIFs | [Source](https://github.com/herkura/ScriptAllTheThings/tree/convert-to-jpg/Video%20to%20gif) | [Hershil Piplani](https://github.com/herkura) |
 | 7\.  | Organizing File | Organizing your files | [Source](https://github.com/ssm0801/ScriptAllTheThings/tree/organizing-files/Automate%20Organizing%20Files) | [Re-Creators](https://github.com/Re-Creators) |
 | 8\.  | Rock Paer Scissor Game | A game made using functions and inbuilt module | [Source](https://github.com/ssm0801/ScriptAllTheThings/tree/master/Rock%20Paper%20Scissor) | [Mayank Goyal](https://github.com/mayankgoyal-13) |
-
+| 9\.   | Horoscope                    | View your daily horoscope . Who knows today might be your lucky day    | [Source](https://github.com/ashish-patwal/ScriptAllTheThings/tree/horoscope/Horoscope)               | [Ashish Patwal](https://github.com/ashish-patwal) |
 
 <br />
 
 ## Project Admin
+
 <p>
     <a href="https://www.linkedin.com/in/sudhanshu-motewar/">Sudhanshu Motewar</a>
 </p>
@@ -42,6 +45,7 @@ A amazing collection of **Python Scripts**. Make your life easier with scripts.
 <br />
 
 # Thanks to all the contributors ❤️
+
 <a href = "https://github.com/ssm0801/ScriptAllTheThings/graphs/contributors">
     <img src = "https://contrib.rocks/image?repo=ssm0801/ScriptAllTheThings"/>
 <a>
