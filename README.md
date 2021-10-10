@@ -18,10 +18,15 @@ A amazing collection of **Python Scripts**. Make your life easier with scripts.
 ## 📃 SCRIPTS 📃
 | S No. | 📛 Name | ℹ️ Info | 🔗 Link | 💻 Coded By |
 |-------|---------|----------|---------|--------------|
-| 1\.  | COVID-19 Status | It notifies the cases and deaths | [Source](https://github.com/ssm0801/ScriptAllTheThings/tree/master/COVID-19%20status) | [Sudhanshu Motewar](https://github.com/ssm0801)      |
+| 1\.  | COVID-19 Status | It notifies the cases and deaths | [Source](https://github.com/ssm0801/ScriptAllTheThings/tree/master/COVID-19%20Notifier) | [Sudhanshu Motewar](https://github.com/ssm0801)      |
 | 2\.  | WhatsApp Scheduled Messenger | Schedule and send a message in WhatsApp | [Source](https://github.com/ssm0801/ScriptAllTheThings/tree/master/WhatsApp%20Scheduled%20Messenger) | [Sudhanshu Motewar](https://github.com/ssm0801) |
 | 3\.  | Certificate Generator | Generate thousands of certificate at just one click | [Source](https://github.com/ssm0801/ScriptAllTheThings/tree/master/Certificate%20Generator) | [Sudhanshu Motewar](https://github.com/ssm0801) |
 | 4\.  | Text to Handwriting | Converts the text given into handwriting image | [Source](https://github.com/ssm0801/ScriptAllTheThings/tree/master/Text%20to%20Handwriting) | [Sudhanshu Motewar](https://github.com/ssm0801) |
+| 5\.  | Convert to jpg | A quick utility that will take the input file and convert it to a .jpg | [Source](https://github.com/herkura/ScriptAllTheThings/tree/convert-to-jpg/Convert%20To%20jpg) | [Hershil Piplani](https://github.com/herkura) |
+| 6\.  | Convert video to GIF | Utility to convert video files to animated GIFs | [Source](https://github.com/herkura/ScriptAllTheThings/tree/convert-to-jpg/Video%20to%20gif) | [Hershil Piplani](https://github.com/herkura) |
+| 7\.  | Organizing File | Organizing your files | [Source](https://github.com/ssm0801/ScriptAllTheThings/tree/organizing-files/Automate%20Organizing%20Files) | [Re-Creators](https://github.com/Re-Creators) |
+| 8\.  | Rock Paer Scissor Game | A game made using functions and inbuilt module | [Source](https://github.com/ssm0801/ScriptAllTheThings/tree/master/Rock%20Paper%20Scissor) | [Mayank Goyal](https://github.com/mayankgoyal-13) |
+
 
 <br />
 
