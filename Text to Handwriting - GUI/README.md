@@ -1,5 +1,5 @@
 # Text to Handwriting - GUI
-A simple tkinter application that Converts Text to Handwriting 
+A tkinter application that Converts Text to Handwriting 
 
 ## Libaries used
  1. tkinter
