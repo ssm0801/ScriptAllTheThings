@@ -1,3 +1,11 @@
+"""
+ Text to Handwriting - GUI
+    - A tkinter application that Converts Text to Handwriting
+    
+    Author : Harshini Marappan
+    Date : 10/10/21
+    
+"""
 import tkinter as tk
 from tkinter import filedialog
 from tkinter.filedialog import asksaveasfile
