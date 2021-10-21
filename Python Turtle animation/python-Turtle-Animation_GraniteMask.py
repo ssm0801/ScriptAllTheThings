@@ -3,6 +3,7 @@ AUTHOR: Ratnadeep Das Choudhury
 Python3 Concept: Python Animation of a Star using Turtle Library
 GITHUB: https://github.com/GraniteMask
 
+
 It's a program to draw a star which constitutes of 5 small stars. Python turtle library has been used to achieve this.
 """
 
