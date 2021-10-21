@@ -31,6 +31,7 @@ A amazing collection of **Python Scripts**. Make your life easier with scripts.
 | 10\.  | Horoscope                    | View your daily horoscope . Who knows today might be your lucky day    | [Source](https://github.com/ashish-patwal/ScriptAllTheThings/tree/horoscope/Horoscope)               | [Ashish Patwal](https://github.com/ashish-patwal) |
 | 11\.  | Password Generator           | Generate a strong password of a given length.                          | [Source](https://github.com/ssm0801/ScriptAllTheThings/tree/master/StrongPasswordGenerator)                 | [Skyascii](https://github.com/savioxavier) |
 | 12\.  | Differential Equations Solver| Helps solve Differential Equations                                     | [Source](https://github.com/19-ade/ScriptAllTheThings/tree/master/Differentail%20Equation%20Solver) | [Anwesan De](https://github.com/19-ade) |
+| 13\.   | Image To Ascii Art Generator | Generates an ascii art of the image provided and writes it to a text file  | [Source](https://github.com/ssm0801/ScriptAllTheThings/blob/master/Image%20To%20Ascii%20Art/)               | [Rudransh Joshi](https://github.com/FireHead90544) |
 
 <br />
 
