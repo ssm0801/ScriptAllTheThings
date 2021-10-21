@@ -17,7 +17,6 @@ A amazing collection of **Python Scripts**. Make your life easier with scripts.
 <br />
 
 ## 📃 SCRIPTS 📃
-
 | S No. | 📛 Name                      | ℹ️ Info                                                                | 🔗 Link                                                                                                     | 💻 Coded By                                       |
 | ----- | ---------------------------- | ---------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
 | 1\.   | COVID-19 Status              | It notifies the cases and deaths                                       | [Source](https://github.com/ssm0801/ScriptAllTheThings/tree/master/COVID-19%20Notifier)                     | [Sudhanshu Motewar](https://github.com/ssm0801)   |
@@ -29,9 +28,9 @@ A amazing collection of **Python Scripts**. Make your life easier with scripts.
 | 7\.   | Organizing File              | Organizing your files                                                  | [Source](https://github.com/ssm0801/ScriptAllTheThings/tree/organizing-files/Automate%20Organizing%20Files) | [Re-Creators](https://github.com/Re-Creators)     |
 | 8\.   | Rock Paer Scissor Game       | A game made using functions and inbuilt module                         | [Source](https://github.com/ssm0801/ScriptAllTheThings/tree/master/Rock%20Paper%20Scissor)                  | [Mayank Goyal](https://github.com/mayankgoyal-13) |
 | 9\.   | Keyboard Logger              | Keylogger that monitors keystrokes                                     | [Source](https://github.com/ssm0801/ScriptAllTheThings/tree/master/Keyboard%20Logger)                       | [Kruze Zab](https://github.com/kruzezab)          |
-| 10\.   | Horoscope                   | View your daily horoscope . Who knows today might be your lucky day    | [Source](https://github.com/ashish-patwal/ScriptAllTheThings/tree/horoscope/Horoscope)               | [Ashish Patwal](https://github.com/ashish-patwal) |
-| 11\.   | Password Generator          | Generate a strong password of a given length.                          | [Source](https://github.com/ssm0801/ScriptAllTheThings/tree/master/StrongPasswordGenerator)                 | [Skyascii](https://github.com/savioxavier) |
-
+| 10\.  | Horoscope                    | View your daily horoscope . Who knows today might be your lucky day    | [Source](https://github.com/ashish-patwal/ScriptAllTheThings/tree/horoscope/Horoscope)               | [Ashish Patwal](https://github.com/ashish-patwal) |
+| 11\.  | Password Generator           | Generate a strong password of a given length.                          | [Source](https://github.com/ssm0801/ScriptAllTheThings/tree/master/StrongPasswordGenerator)                 | [Skyascii](https://github.com/savioxavier) |
+| 12\.  | Differential Equations Solver| Helps solve Differential Equations                                     | [Source](https://github.com/19-ade/ScriptAllTheThings/tree/master/Differentail%20Equation%20Solver) | [Anwesan De](https://github.com/19-ade) |
 
 <br />
 
