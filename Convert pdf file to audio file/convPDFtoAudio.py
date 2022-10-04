@@ -1,4 +1,9 @@
-
+'''
+Convert pdf to audio file
+- script that can convert pdfs into audio files
+Author : Hershil Piplani
+Date : 4/10/22
+'''
 
 
 
